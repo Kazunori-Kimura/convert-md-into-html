@@ -1,0 +1,20 @@
+{
+  "name": "convert-md-into-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "html"
+  ],
+  "author": "kazunori.kimura.js@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "ect": "^0.5.9",
+    "extend": "^2.0.0",
+    "marked": "^0.3.2"
+  }
+}
