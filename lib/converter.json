@@ -1,9 +1,9 @@
 {
-  "template": "C:\\dev\\introduction-to-asp-dot-net\\templates",
-  "src": "C:\\dev\\introduction-to-asp-dot-net\\docs\\md",
-  "dst": "C:\\dev\\introduction-to-asp-dot-net\\public",
+  "template": "/Users/kimurakazunori/Repository/introduction-to-asp-dot-net/templates",
+  "src": "/Users/kimurakazunori/Repository/introduction-to-asp-dot-net/docs/md",
+  "dst": "/Users/kimurakazunori/introduction-to-asp-dot-net",
   "base_url": "http://kazunori-kimura.github.io/introduction-to-asp-dot-net/",
   "title": "introduction to asp dot net",
   "copyright": "2015 Kazunori Kimura",
-  "project": "Webアプリケーション開発勉強会"
+  "project": "ASP.NET開発勉強会"
 }
